@@ -1,0 +1,8 @@
+1. Building a single-page application (SPA) for a to-do list.
+
+	Functionality:
+ 		The application should allow users to perform common operations on tasks, including adding, viewing, updating, and deleting tasks.
+
+	Technology Stack:
+		Backend: It should be implemented using Python.
+		Frontend: It should be built using HTML for structuring the content, CSS for styling, and Bootstrap for enhancing the user interface and design.
